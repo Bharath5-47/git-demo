@@ -1,2 +1,12 @@
 sasuke uchiha
 
+<<<<<<< HEAD
+=======
+
+sakura uchiha
+
+
+itachi kakashi naruto minato madara obito kushina guy lee
+
+commit this line only
+>>>>>>> c33c78155f9f7fd4b11c02f5b4b6dd09de1aa7fe
